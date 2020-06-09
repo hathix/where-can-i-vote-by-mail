@@ -9,6 +9,11 @@ vote by mail in the November 2020 general election.
 
 ![Map of vote-by-mail on 5-21-2020](msnbc-map-2020.05.21.jpg)
 
+The good news is that no swing states (except Texas) forbid vote-by-mail.
+The bad news is that many states have no experience running elections with
+so much mail-in voting, so they may have trouble counting votes on Election
+Night.
+
 ## Timeline
 
 No updates yet.
