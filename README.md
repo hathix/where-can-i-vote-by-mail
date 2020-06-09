@@ -22,3 +22,7 @@ No updates yet.
 
 If you get any new information or would like to beef up this repository,
 please feel free to make a pull request.
+
+If someone would like to turn the above map into a table, and perhaps cross-reference
+with voting history and number of electoral votes, please help with that!
+We hope this can become a useful resource for American voters.
